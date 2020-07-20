@@ -3,7 +3,9 @@
 <!--
 **aishwaryaubhrani/aishwaryaubhrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1>Hola! I'm Aishwarya. </h1>
+<img align='right' src="https://cdn.dribbble.com/users/1951182/screenshots/4560823/800x600.gif" width="230">
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
