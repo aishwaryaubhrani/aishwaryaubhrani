@@ -3,7 +3,7 @@
 
 I am a junior year student at University of Petrolium and Energy Studies, Dehadun and am currently persuing Bachelor Degree in Computer Science with specialization in Mobile Computing. :raising_hand: <br>
 
-<img align='center' src="https://cdn.dribbble.com/users/1603428/screenshots/4158705/mob-dev.gif" width="250"> <br>
+<img src="https://cdn.dribbble.com/users/1603428/screenshots/4158705/mob-dev.gif" width="300"> <br>
 
 I am an enthusiastic Android Application Developer with experience in enterprise mobile application development. :star2: <br>
 
